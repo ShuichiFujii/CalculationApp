@@ -6,9 +6,9 @@ def eval_expr(expr):
 
 def main():
     while True:
-        expr = input("Enter an expression: ")
+        expr = input("Enter an expression (`exit` to exit): ")
         
-        if expr.lower() in ("exit", "quit"):
+        if expr.lower() == "exit":
             break
 
         try:
