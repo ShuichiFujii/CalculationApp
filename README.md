@@ -1,4 +1,4 @@
-# 計算器（cal_app）
+# 計算器（CalculationApp）
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![CLI](https://img.shields.io/badge/interface-CLI-lightgrey)
@@ -32,8 +32,8 @@ Python で実装した CLI ベースの電卓アプリです。
 ## Setup
 
 ```bash
-git clone https://github.com/ShuichiFujii/cal_app.git
-cd cal_app
+git clone https://github.com/ShuichiFujii/CalculationApp.git
+cd CalculationApp
 ```
 
 外部ライブラリは現在使用していません。
@@ -68,7 +68,7 @@ python3 -m unittest tests.testcase
 ## Project Structure
 
 ```text
-cal_app/
+CalculationApp/
 ├── api/
 │   └── main.py          # CLI のエントリーポイント
 ├── app/
