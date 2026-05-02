@@ -1,6 +1,6 @@
 # 計算器（CalculationApp）
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.12.7-blue)
 ![CLI](https://img.shields.io/badge/interface-CLI-lightgrey)
 ![Test](https://img.shields.io/badge/test-unittest-green)
 ![Status](https://img.shields.io/badge/status-in_progress-yellow)
